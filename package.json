@@ -1,0 +1,23 @@
+{
+  "name": "lemoda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass ./scss/style.scss ./styles/style.min.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamshir/lemoda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamshir/lemoda/issues"
+  },
+  "homepage": "https://github.com/kamshir/lemoda#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
